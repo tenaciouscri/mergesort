@@ -94,7 +94,7 @@ print(f"Sorted array: {arr}")
 print()
 
 # Testing one more time
-another_arr = [11, 100, 3, 23, 91, 200, 17]
+another_arr = [11, 100, 3, 23, 91, 200, 17, -1]
 print(f"Original array: {another_arr}")
 merge_sort(another_arr)
 print(f"Sorted array: {another_arr}")
